@@ -1,3 +1,7 @@
+API linkerini deyişdirmek üçün components folder içinde olan AddUser.js ve Users.js componentlerinin içine baxın. 
+Simple olaraq yazılmış bir project dir .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
