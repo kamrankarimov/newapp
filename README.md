@@ -1,6 +1,9 @@
 API linkerini deyişdirmek üçün components folder içinde olan AddUser.js ve Users.js componentlerinin içine baxın. 
 Simple olaraq yazılmış bir project dir .
 
+React JS install edenden sonra install etmeniz gereken tek plugin var . AXIOS pluginini install edin. API linklerle işleyen plugindir.
+POST ve GET methodu üçün istifade olunur. Melumatı JSON olaraq alır.
+
 
 # Getting Started with Create React App
 
